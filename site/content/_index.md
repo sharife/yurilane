@@ -2,6 +2,10 @@
 title: "Yuri Lane"
 subtitle: Beatbox Harmonica
 image: /img/yuri-header.jpg
+feature:
+    heading: PLANET BTBX
+    text: "A new show from Yuri Lane featuring DJ Oliver Fade Torres. Friday, November 15th @9pm, Everything Bar, 1601 W. Grand, Chicago."
+    image: /img/planet-btbx-everything-chicago.jpg
 blurb:
     heading: About Yuri
     text: "Yuri Lane was born on a small island in Holland. His parents, a painter and a violinist, soon moved to San Francisco's Haight-Ashbury district to ride the 70's counter-culture current. Raised in the Haight, Yuri learned rhythm by osmosis and began to breathe beats."

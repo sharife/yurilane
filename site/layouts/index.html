@@ -2,6 +2,8 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
+{{ partial "text-and-video" .Params.feature}}
+
 {{ partial "videos" . }}
 
 {{ partial "text-and-image" .Params.blurb}}
