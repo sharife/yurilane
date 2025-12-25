@@ -3,12 +3,11 @@ title: "Yuri Lane"
 subtitle: Beatbox Harmonica
 image: /img/yuri-header.jpg
 feature:
-    heading: PLANET BTBX
-    text: "A new show from Yuri Lane featuring DJ Oliver Fade Torres. Friday, November 15th @9pm, Everything Bar, 1601 W. Grand, Chicago."
-    image: /img/planet-btbx-everything-chicago.jpg
+    heading: The Ruckus Revival
+    text: "Watch Yuri's performance at the infamous underground variety show in Oakland, CA."
 blurb:
     heading: About Yuri
-    text: "Yuri Lane was born on a small island in Holland. His parents, a painter and a violinist, soon moved to San Francisco's Haight-Ashbury district to ride the 70's counter-culture current. Raised in the Haight, Yuri learned rhythm by osmosis and began to breathe beats."
+    text: "Yuri Basho Lane is a Chicago-based actor, beatboxer, harmonica player, teaching artist,vegan sushi chef  and lecturer on the history of the vocal arts in Hip-Hop. Yuri has toured the U.S., Europe and Middle East with his internationally acclaimed solo shows including ‘’From Tel Aviv to Ramallah: A Beatbox Journey” and “Soundtrack City.”"
     buttonText: Read more
     buttonLink: /about
     image: /img/about-yuri.jpg

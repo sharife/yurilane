@@ -1,9 +1,14 @@
 <nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center white absolute w-100">
 
 	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none no-underline b ttu">
-		<!-- <nobr>Yuri Lane</nobr> -->
-	</a>
+	<div>
+		{{ $currentPage := . }}
+		{{ if ne $currentPage.Title "Yuri Lane"}}
+		<a href="/" class="pa3 db mr4 h-100 w3 flex-none no-underline b ttu black">
+			<nobr>Yuri Lane</nobr>
+		</a>
+		{{ end }}
+	</div>
 
 	<!-- Primary Nav -->
 	<ul class="flex b grey-3">
