@@ -1,7 +1,7 @@
 ---
 title: "Yuri Lane"
 subtitle: Beatbox Harmonica
-image: /img/yuri-header.jpg
+image: /img/yuri-header-xl.jpg
 feature:
     heading: The Ruckus Revival
     text: "Watch Yuri's performance at the infamous underground variety show in Oakland, CA."
